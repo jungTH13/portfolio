@@ -23,7 +23,7 @@ node.js를 이용한 백엔드 공부를 계속해나가고 있습니다.
 ## 프로젝트
 
 ### 서울시 부동산 실거래가 조회 사이트
->ppt: http://ec2-3-36-175-42.ap-northeast-2.compute.amazonaws.com/
+>배포: http://ec2-3-36-175-42.ap-northeast-2.compute.amazonaws.com/
 >
 >역할: 프론트,백엔드 (풀스택 개발)
 >
