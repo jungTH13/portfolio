@@ -16,7 +16,7 @@ node.js를 이용한 백엔드 공부를 계속해나가고 있습니다.
 <br/>
 
 ## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](infinite1305@gmail.com) [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)]([https://davinci-ai.tistory.com/](https://blog.naver.com/infinite13))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:infinite1305@gmail.com)](mailto:infinite1305@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/infinite13)](https://blog.naver.com/infinite13)
 
 <br/>
 
