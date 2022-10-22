@@ -5,16 +5,6 @@ node.js를 이용한 백엔드 공부를 계속해나가고 있습니다.
 
 <br/>
 
-## Career
-| **Type** | **Date** | **Contents** | **Org.** |
-|:--------:|:--------:|:--------:|:--------:|
-| **공군 부사관** | 2014. 1 ~ 2018. 12 | 국군지휘통신사 광역전송체계 특기 | - |
-| **:mortar_board:서울사이버 대학교** | 2017. 3 ~ 2021. 8 | 컴퓨터 공학과 수료 | - |
-| **:mortar_board:코드스테이츠** | 2021. 7 ~ 2022. 1 | AI부트캠프 수료 | - |
-| **:mortar_board:원티드 ML/DL 프리온보딩** | 2022. 3 ~ 2022. 4 | 기업참여형 과제 달성 프로젝트 | - |
-
-<br/>
-
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:infinite1305@gmail.com)](mailto:infinite1305@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/infinite13)](https://blog.naver.com/infinite13)
 
